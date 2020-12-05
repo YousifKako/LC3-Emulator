@@ -1,0 +1,5 @@
+*.sln
+.vs
+VM LC3/VM LC3*
+VM LC3/x64/
+x64/
